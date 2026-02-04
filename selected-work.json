@@ -47,5 +47,17 @@
         ],
         "linkText": "Details →",
         "linkHref": "/projects.html#logs"
+    },
+    {
+        "title": "Automation in Unity License Provisioning",
+        "summary": "Build of workflow to automate provisioning of Unity licenses for new hires, reducing manual effort and onboarding time.",
+        "details": "Developed a system that integrates wtih AD and Unity's licensing platform to automatically allocate and manage licenses based on employee status.",
+        "tags": [
+            "Unity",
+            "Automation",
+            "Onboarding"
+        ],
+        "linkText": "Details →",
+        "linkHref": "/projects.html#unity"
     }
 ]
