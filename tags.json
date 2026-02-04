@@ -23,5 +23,6 @@
     "Powershell",
     "Ubuntu",
     "RHEL",
-    "Windows Server"
+    "Windows Server",
+    "vmware"
 ]
