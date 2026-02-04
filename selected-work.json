@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Infrastructure Self-Repair Automation",
+        "summary": "Intercepts critical alerts and runs safe, staged remediation; reports outcomes back to engineers.",
+        "details": "Interprets alerts, validates impact, and executes staged actions (restart → reboot → redeploy) with guardrails, audit logs, and rollback/escalation paths. Includes post-action verification and status reporting.",
+        "tags": [
+            "Reliability",
+            "Automation",
+            "Incident response"
+        ],
+        "linkText": "Details →",
+        "linkHref": "/projects.html#self-repair"
+    },
+    {
+        "title": "Global FSxN Replication Fabric",
+        "summary": "Multi-AZ, multi-region SnapMirror architecture with replication to/from on-prem for predictable failover.",
+        "details": "Designed for controlled RPO/RTO with operational runbooks: lifecycle orchestration, break/glue workflows, health checks, and repeatable promotion/failback. Built to scale across accounts/regions.",
+        "tags": [
+            "NetApp",
+            "FSxN",
+            "SnapMirror",
+            "DR"
+        ],
+        "linkText": "Details →",
+        "linkHref": "/projects.html#fsxn"
+    },
+    {
+        "title": "Golden Image Pipelines (CIS-hardened)",
+        "summary": "Automated AMI pipelines with CIS hardening, validation, scheduled rebuilds, and multi-account distribution.",
+        "details": "Quarterly rebuild cadence with security baselines, test gates, and versioned release promotion. Outputs consistent artifacts across regions and accounts with minimal manual input.",
+        "tags": [
+            "EC2 Image Builder",
+            "Terraform",
+            "Security baselines"
+        ],
+        "linkText": "Details →",
+        "linkHref": "/projects.html#images"
+    },
+    {
+        "title": "LLM-Assisted Log Parsing & Ops Routing",
+        "summary": "High-volume log parsing that detects failure patterns and routes findings into tickets and/or automation actions.",
+        "details": "Improves time-to-signal by clustering noisy logs, extracting probable root causes, and generating actionable summaries. Supports routing to ticket queues and optional safe automated remediations.",
+        "tags": [
+            "Observability",
+            "LLM workflows",
+            "Ticketing"
+        ],
+        "linkText": "Details →",
+        "linkHref": "/projects.html#logs"
+    }
+]
