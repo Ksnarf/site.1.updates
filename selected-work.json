@@ -8,6 +8,8 @@
             "Automation",
             "Incident response"
         ],
+        "linkText": "Details →",
+        "linkHref": "/projects.html#self-repair"
     },
     {
         "title": "Global FSxN Replication Fabric",
@@ -19,6 +21,8 @@
             "SnapMirror",
             "DR"
         ],
+        "linkText": "Details →",
+        "linkHref": "/"
     },
     {
         "title": "Golden Image Pipelines (CIS-hardened)",
@@ -29,6 +33,8 @@
             "Terraform",
             "Security baselines"
         ],
+        "linkText": "Details →",
+        "linkHref": "/"
     },
     {
         "title": "LLM-Assisted Log Parsing & Ops Routing",
@@ -39,6 +45,8 @@
             "LLM workflows",
             "Ticketing"
         ],
+        "linkText": "Details →",
+        "linkHref": "/"
     },
     {
         "title": "Automation in Unity License Provisioning",
@@ -49,5 +57,7 @@
             "Automation",
             "Onboarding"
         ],
-    },
+        "linkText": "Details →",
+        "linkHref": "/"
+    }
 ]
